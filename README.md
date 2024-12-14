@@ -1,3 +1,31 @@
+# Università degli Studi di Bari Aldo Moro  
+### - Dipartimento di Informatica  
+### - Corso di Laurea in Informatica e Tecnologie per la Produzione del Software  
+
+---
+
+# **Tesi di Laurea**  
+
+**Titolo:**  
+*Implementazione e Addestramento di Modelli di Intelligenza Artificiale per il Riconoscimento della Menzogna attraverso l'Analisi delle Espressioni Facciali e Testuali*  
+
+**Studente:**  
+Salvatore Forte, Matricola: 737321  
+
+**Relatore:**  
+Vita Santa Barletta  
+
+**Anno Accademico:**  
+2023/2024  
+
+---
+
+
+
+
+
+
+
 # Lie Detection Project
 
 Benvenuti nel progetto **Lie Detection**, un sistema che combina:
