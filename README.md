@@ -44,13 +44,13 @@ Contiene i risultati dei test effettuati su video, organizzati in sottocartelle:
 
 
 ---
-### 📊 Schema del Sistema
+## 📊 Schema del Sistema
 
 ![Schema del Sistema](Schema.png)
 
 ---
 
-### 📊 Esempio di Caso di Test
+## 📊 Esempio di Caso di Test
 
 Di seguito è riportato un esempio dell'analisi eseguita dal sistema:
 
