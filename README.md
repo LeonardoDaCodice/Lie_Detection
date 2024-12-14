@@ -61,6 +61,7 @@ Di seguito è riportato un esempio dell'analisi eseguita dal sistema:
 - **Output**:
   - **Microespressione individuata**: "Anger".
   - **Sentimento analizzato dal testo trascritto**: "Anger".
+  - **Conclusione**: "La persona potrebbe star mentendo".
 - **Visualizzazione**:
   - I risultati delle analisi vengono mostrati in tempo reale nell'interfaccia utente.
 
