@@ -44,6 +44,12 @@ Contiene i risultati dei test effettuati su video, organizzati in sottocartelle:
 
 ---
 
+
+### 📊 Schema del Sistema
+
+![Schema del Sistema](Schema.png)
+
+
 ### 📊 Esempio di Caso di Test
 
 Di seguito è riportato un esempio dell'analisi eseguita dal sistema:
@@ -59,12 +65,8 @@ Di seguito è riportato un esempio dell'analisi eseguita dal sistema:
   - I risultati delle analisi vengono mostrati in tempo reale nell'interfaccia utente.
 
 
-
-### 📊 Schema del Sistema
-
-![Schema del Sistema](Schema.png)
-
 ---
+
 
 ## 📜 Licenza
 Questo progetto è rilasciato sotto la licenza descritta in **LICENSE.txt**.
