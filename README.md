@@ -42,13 +42,13 @@ Contiene i risultati dei test effettuati su video, organizzati in sottocartelle:
 - File `.txt` per ogni test.
 - **`Risultati.xlsx`** con un riepilogo tabellare.
 
----
 
 ---
 ### 📊 Schema del Sistema
 
 ![Schema del Sistema](Schema.png)
 
+---
 
 ### 📊 Esempio di Caso di Test
 
@@ -64,9 +64,9 @@ Di seguito è riportato un esempio dell'analisi eseguita dal sistema:
   - **Conclusione**: "La persona potrebbe star mentendo".
 - **Visualizzazione**:
   - I risultati delle analisi vengono mostrati in tempo reale nell'interfaccia utente.
----
 
 ---
+
 ## 📜 Licenza
 Questo progetto è rilasciato sotto la licenza descritta in **LICENSE.txt**.
 
