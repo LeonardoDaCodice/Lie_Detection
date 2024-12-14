@@ -48,13 +48,13 @@ Contiene i risultati dei test effettuati su video, organizzati in sottocartelle:
 
 Di seguito è riportato un esempio dell'analisi eseguita dal sistema:
 
-![Caso di Test - Analisi del Video](test_case_interface.png)
+![Caso di Test - Analisi del Video](Interfaccia_Sistema.png)
 
 **Descrizione del caso di test:**
 - **Input**: Un video contenente microespressioni facciali catturate durante un'intervista.
 - **Output**:
-  - **Microespressioni individuate**: "Gioia" e "Disgusto".
-  - **Sentimento analizzato dal testo trascritto**: "Sorpresa".
+  - **Microespressione individuata**: "Anger".
+  - **Sentimento analizzato dal testo trascritto**: "Anger".
 - **Visualizzazione**:
   - I risultati delle analisi vengono mostrati in tempo reale nell'interfaccia utente.
 
