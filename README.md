@@ -59,7 +59,7 @@ Di seguito è riportato un esempio dell'analisi eseguita dal sistema:
 **Descrizione del caso di test:**
 - **Input**: Un video contenente microespressioni facciali catturate durante un'intervista.
 - **Output**:
-  - **Microespressione individuata**: "Anger".
+  - **Microespressione individuata**: "Joy".
   - **Sentimento analizzato dal testo trascritto**: "Anger".
   - **Conclusione**: "La persona potrebbe star mentendo".
 - **Visualizzazione**:
