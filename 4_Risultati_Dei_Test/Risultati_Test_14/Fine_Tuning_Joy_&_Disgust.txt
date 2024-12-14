@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-03_16-24-22.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Sì eravamo insieme e ci siamo divertiti molto anche se a fine serata mi è venuto un leggero mal di testa
+
+Sentiment dell'audio: joy (Confidenza: 97.02%)
+Microespressione: Disgust (Confidenza: 43.76%)
+
+Conclusione: La persona potrebbe star mentendo.

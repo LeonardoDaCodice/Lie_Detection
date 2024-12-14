@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-10_16-49-42.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+non ho effettuato nessun tipo di accesso al sistema quindi non confermo
+
+Sentiment dell'audio: neutral (Confidenza: 84.50%)
+Microespressione: No Microexpression (Confidenza troppo bassa)
+
+Conclusione: Non è possibile stabilire se la persona sta mentendo o meno a causa di una confidenza troppo bassa o all'assenza di emozione..

@@ -1,0 +1,10 @@
+Analizzando il video: Video_Test_G.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+oggi l'esame è andato bene Ho fatto quasi tutti gli esercizi a parte due la teoria invece non tanto bene
+
+Sentiment dell'audio: joy (Confidenza: 84.33%)
+Microespressione: Anger (Confidenza: 54.63%)
+
+Conclusione: La persona potrebbe star mentendo.

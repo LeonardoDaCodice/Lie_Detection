@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-03_19-37-20.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+mi piace trascorrere il fine settimana con Alessandro e mio figlio perché mi rende felice e mi fa stare bene Quindi non vedo l'ora che arrivi questo momento
+
+Sentiment dell'audio: joy (Confidenza: 99.11%)
+Microespressione: Contempt (Confidenza: 41.61%)
+
+Conclusione: La persona potrebbe star mentendo.

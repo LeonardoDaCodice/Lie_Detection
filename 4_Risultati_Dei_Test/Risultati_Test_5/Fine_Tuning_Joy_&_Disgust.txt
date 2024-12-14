@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-10_16-48-01.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+mi sono sentita particolarmente felice ieri durante la pausa pranzo al lavoro con la mia collega
+
+Sentiment dell'audio: joy (Confidenza: 99.38%)
+Microespressione: Disgust (Confidenza: 44.14%)
+
+Conclusione: La persona potrebbe star mentendo.

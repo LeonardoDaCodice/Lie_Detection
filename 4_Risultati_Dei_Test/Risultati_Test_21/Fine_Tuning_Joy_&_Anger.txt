@@ -1,0 +1,10 @@
+Analizzando il video: WIN_20241120_18_34_58_Pro.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Oggi è una bella giornata
+
+Sentiment dell'audio: joy (Confidenza: 97.73%)
+Microespressione: Anger (Confidenza: 45.03%)
+
+Conclusione: La persona potrebbe star mentendo.

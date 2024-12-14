@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-03_19-29-18.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Sì ho giocato a calcio ed è andata molto bene abbiamo vinto 3 a 1 con quelle schiappe
+
+Sentiment dell'audio: neutral (Confidenza: 49.01%)
+Microespressione: Anger (Confidenza: 48.94%)
+
+Conclusione: Non è possibile stabilire se la persona sta mentendo a causa di una confidenza troppo bassa o all'assenza di emozione.

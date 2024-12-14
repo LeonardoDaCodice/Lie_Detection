@@ -1,0 +1,10 @@
+Analizzando il video: WIN_20241120_13_19_55_Pro.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Oggi sto male è immaginata particolare al lavoro e c'è tanto da fare
+
+Sentiment dell'audio: sadness (Confidenza: 76.35%)
+Microespressione: Surprise (Confidenza: 50.77%)
+
+Conclusione: La persona potrebbe star mentendo.

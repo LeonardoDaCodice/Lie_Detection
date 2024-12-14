@@ -1,0 +1,10 @@
+Analizzando il video: WIN_20241120_13_16_22_Pro.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Oggi sono veramente euforico
+
+Sentiment dell'audio: joy (Confidenza: 98.27%)
+Microespressione: Disgust (Confidenza: 93.64%)
+
+Conclusione: La persona potrebbe star mentendo.

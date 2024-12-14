@@ -1,0 +1,10 @@
+Analizzando il video: WIN_20241121_16_53_58_Pro.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Oggi è una bella giornata fuori nevica ci sono 40 gradi
+
+Sentiment dell'audio: joy (Confidenza: 93.70%)
+Microespressione: Contempt (Confidenza: 93.65%)
+
+Conclusione: La persona potrebbe star mentendo.

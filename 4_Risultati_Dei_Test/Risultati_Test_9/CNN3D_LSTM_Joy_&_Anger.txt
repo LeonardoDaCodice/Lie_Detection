@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-03_19-34-27.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+è andato molto bene credo di aver completato tutti gli esercizi bene e di prendere un 30 e lode mi sento molto contento sono fiero di me
+
+Sentiment dell'audio: joy (Confidenza: 99.30%)
+Microespressione: Anger (Confidenza: 84.05%)
+
+Conclusione: La persona potrebbe star mentendo.

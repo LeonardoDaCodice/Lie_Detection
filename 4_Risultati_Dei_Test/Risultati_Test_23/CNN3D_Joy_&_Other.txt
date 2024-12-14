@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-10_16-49-27.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Sì ieri sera ero con la mia collega ci siamo divertiti un sacco confermo
+
+Sentiment dell'audio: joy (Confidenza: 96.35%)
+Microespressione: Other (Confidenza: 75.45%)
+
+Conclusione: Non è possibile stabilire se la persona sta mentendo a causa di una confidenza troppo bassa o all'assenza di emozione.

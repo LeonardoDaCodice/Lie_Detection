@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-10_11-47-36.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Sì sabato ha giocato a calcio è andata molto bene
+
+Sentiment dell'audio: joy (Confidenza: 87.13%)
+Microespressione: Anger (Confidenza: 87.91%)
+
+Conclusione: La persona potrebbe star mentendo.

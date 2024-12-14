@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-03_19-51-59.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+No io non ho mai mentito in situazioni particolari per chi mi hai preso con un bugiardo eh scusa
+
+Sentiment dell'audio: sadness (Confidenza: 73.53%)
+Microespressione: Disgust (Confidenza: 77.25%)
+
+Conclusione: La persona sta dicendo la verità.

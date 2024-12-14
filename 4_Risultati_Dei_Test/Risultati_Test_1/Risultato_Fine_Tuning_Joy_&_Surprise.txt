@@ -1,0 +1,10 @@
+Analizzando il video: WIN_20241120_13_16_22_Pro.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Oggi sono veramente euforico
+
+Sentiment dell'audio: joy (Confidenza: 98.27%)
+Microespressione: Surprise (Confidenza: 41.96%)
+
+Conclusione: La persona sta dicendo la verità.

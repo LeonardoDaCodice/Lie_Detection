@@ -1,0 +1,10 @@
+Analizzando il video: Giuseppe_Video_Test_2.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+Sì mi è capitato più volte di raccontare una bugia ad una persona perché quando lo fai perché lo fai per non far rimanere male l'altra persona
+
+Sentiment dell'audio: anger (Confidenza: 34.34%)
+Microespressione: Anger (Confidenza: 77.53%)
+
+Conclusione: La persona sta dicendo la verità.

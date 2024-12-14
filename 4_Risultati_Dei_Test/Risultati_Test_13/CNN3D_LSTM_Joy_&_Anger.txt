@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-02_12-01-41.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+l'altro giorno mi sono divertito tantissimo a liberare bossetti dal carcere è stato meraviglioso un'esperienza unica poi siamo andati in un campo di margherite parlanti e abbiamo dormito tutta la notte insieme
+
+Sentiment dell'audio: joy (Confidenza: 92.34%)
+Microespressione: Anger (Confidenza: 93.44%)
+
+Conclusione: La persona potrebbe star mentendo.

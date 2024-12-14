@@ -1,0 +1,10 @@
+Analizzando il video: WIN_20241118_16_19_59_Pro.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+è un bel tempo sono veramente felice
+
+Sentiment dell'audio: joy (Confidenza: 99.00%)
+Microespressione: Surprise (Confidenza: 42.73%)
+
+Conclusione: La persona sta dicendo la verità.

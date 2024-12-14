@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-02_11-58-47.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+ci sono andato a cavalcare una balena sul sul mare di arcobaleno
+
+Sentiment dell'audio: fear (Confidenza: 96.54%)
+Microespressione: Anger (Confidenza: 80.73%)
+
+Conclusione: La persona sta dicendo la verità.

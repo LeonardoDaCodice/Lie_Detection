@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-02_15-37-54.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+si arresta è fantastico
+
+Sentiment dell'audio: joy (Confidenza: 50.21%)
+Microespressione: Contempt (Confidenza: 40.11%)
+
+Conclusione: La persona potrebbe star mentendo.

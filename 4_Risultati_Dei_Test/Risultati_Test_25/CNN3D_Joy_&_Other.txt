@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-10_16-49-57.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+un episodio recente in cui mi sono sentito particolarmente Felice è stato nel momento in cui ho effettuato parkour
+
+Sentiment dell'audio: joy (Confidenza: 99.35%)
+Microespressione: Other (Confidenza: 74.01%)
+
+Conclusione: Non è possibile stabilire se la persona sta mentendo a causa di una confidenza troppo bassa o all'assenza di emozione.

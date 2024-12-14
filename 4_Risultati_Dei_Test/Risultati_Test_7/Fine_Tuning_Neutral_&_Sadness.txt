@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-10_16-48-30.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+No non ho assolutamente effettuato l'accesso al sistema ieri sera
+
+Sentiment dell'audio: neutral (Confidenza: 54.39%)
+Microespressione: Sadness (Confidenza: 51.24%)
+
+Conclusione: Non è possibile stabilire se la persona sta mentendo a causa di una confidenza troppo bassa o all'assenza di emozione.

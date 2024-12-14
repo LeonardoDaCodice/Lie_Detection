@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-10_11-38-36.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+è andato benissimo Ho preso 30 e lode
+
+Sentiment dell'audio: joy (Confidenza: 97.29%)
+Microespressione: Anger (Confidenza: 43.41%)
+
+Conclusione: La persona potrebbe star mentendo.

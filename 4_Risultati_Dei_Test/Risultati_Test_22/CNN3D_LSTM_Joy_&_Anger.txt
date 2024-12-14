@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-10_16-48-56.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+l'esame di analisi che ho fatto oggi è andato benissimo Ho preso 30
+
+Sentiment dell'audio: joy (Confidenza: 92.82%)
+Microespressione: Anger (Confidenza: 96.66%)
+
+Conclusione: La persona potrebbe star mentendo.

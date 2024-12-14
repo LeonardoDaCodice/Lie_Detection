@@ -1,0 +1,10 @@
+Analizzando il video: video_2024-12-03_16-26-50.mp4
+--------------------------------------------------
+
+Audio trascritto in Testo:
+non è andata molto bene perché non avevo le scarpe mie e alla fine abbiamo perso
+
+Sentiment dell'audio: sadness (Confidenza: 93.38%)
+Microespressione: Disgust (Confidenza: 45.48%)
+
+Conclusione: La persona sta dicendo la verità.
