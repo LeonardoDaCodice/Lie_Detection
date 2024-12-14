@@ -7,7 +7,7 @@ Benvenuti nel progetto **Lie Detection**, un sistema che combina:
 Questo repository contiene tutti i componenti necessari per il sistema, tra cui modelli AI, script, risultati di test, e un'interfaccia utente per l'analisi video.
 
 ---
----
+
 ## 📁 Struttura del Repository
 
 Ecco la struttura principale del repository e il contenuto di ciascuna sezione:
@@ -25,7 +25,7 @@ Codice Python per integrare i modelli e l'interfaccia:
 - **`microexpression.py`**: Analisi delle microespressioni facciali.
 - **`sentiment_analysis.py`**: Analisi del sentimento nei testi.
 ---
----
+
 
 ### 3. **Modelli AI & Eseguibili**
 Modelli AI addestrati per l'analisi delle microespressioni facciali:
@@ -44,7 +44,7 @@ Contiene i risultati dei test effettuati su video, organizzati in sottocartelle:
 
 ---
 
-
+---
 ### 📊 Schema del Sistema
 
 ![Schema del Sistema](Schema.png)
@@ -64,11 +64,9 @@ Di seguito è riportato un esempio dell'analisi eseguita dal sistema:
   - **Conclusione**: "La persona potrebbe star mentendo".
 - **Visualizzazione**:
   - I risultati delle analisi vengono mostrati in tempo reale nell'interfaccia utente.
-
-
 ---
 
-
+---
 ## 📜 Licenza
 Questo progetto è rilasciato sotto la licenza descritta in **LICENSE.txt**.
 
